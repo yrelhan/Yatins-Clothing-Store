@@ -3,13 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65'
+  apiKey: "AIzaSyABXShyh8rWV4VEdFuQ8amGso-Y9PopXys",
+  authDomain: "hymnmusicstore-db.firebaseapp.com",
+  databaseURL: "https://hymnmusicstore-db.firebaseio.com",
+  projectId: "hymnmusicstore-db",
+  storageBucket: "hymnmusicstore-db.appspot.com",
+  messagingSenderId: "844250940188",
+  appId: "1:844250940188:web:0f09918619e6718137f0d9",
+  measurementId: "G-PH2V2Q7L34"
 };
 
 firebase.initializeApp(config);
